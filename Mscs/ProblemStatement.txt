@@ -1,0 +1,23 @@
+Problem Statement 4: Empowering Elderly Care with multi agent AI system
+
+Challenge Overview:
+
+As the global population ages, ensuring the well-being of elderly individuals living independently presents a major challenge.
+The goal of this hackathon is to develop a multi-agentic Al system that assists elderly individuals by providing real-time monitoring, reminders, and safety
+alerts, while promoting health management and social engagement. The agents will work together to create a collaborative support system, involving
+caregivers, healthcare providers, and family members to ensure optimal care and peace of mind.
+The system should monitor health, detect unusual behavior, and provide alerts in case of emergencies. It should also provide reminders to manage daily
+routines, such as medication schedules, appointments, and daily activities.
+
+Current Process:
+
+Healthcare Provider: Monitors health data (e.g., heart rate, blood pressure, glucose levels) through wearable devices and gets alerted if abnormal values
+are detected.
+
+Safety Monitoring System: Uses sensors or wearables to track movement, activity, and falls. If an elderly person falls or exhibits unusual behavior (e.g.,
+remaining stationary for too long), the system triggers an alert.
+
+Daily activity Reminder System: Sends reminders in form of voice notes to the elderly individual for medication intake, scheduled appointments or daily
+activities.
+
+Expected Technical Output: Multiagent framework
